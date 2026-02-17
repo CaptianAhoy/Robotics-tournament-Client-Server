@@ -1,0 +1,4 @@
+1,Witch Doctor,24
+2,Minotaur,18
+3,Valkayrie,14
+4,Hardcore Robotics,9
